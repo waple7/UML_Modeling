@@ -1,5 +1,4 @@
-**Система управления складом(WHS)** разработана для оптимизации процессов приема товаров от поставщиков, их хранения на складе и отгрузки в филиалы
-компании. Менеджер склада осуществляет заказы у поставщиков, после чего работники принимают поставки и размещают товары на складе с помощью 
-информационной системы. Система автоматически определяет оптимальное место для хранения каждого товара. Кроме того, менеджер принимает 
-заявки от филиалов на получение товаров и система автоматически формирует отгрузки,если на складе имеется достаточное количество товаров. 
-Это позволяет оптимизировать запасы и ускорить процесс поставки товаров клиентам.
+**Warehouse Management System (WHS)** is designed to optimize the processes of receiving goods from suppliers, storing them in a warehouse, and shipping them to the company's branches. The warehouse manager places orders with suppliers, after which employees accept deliveries and place goods in the warehouse using the
+information system. The system automatically determines the optimal storage location for each product. In addition, the manager accepts
+requests from branches to receive goods, and the system automatically generates shipments if there are enough goods in the warehouse.
+This allows you to optimize stocks and speed up the process of delivering goods to customers.
